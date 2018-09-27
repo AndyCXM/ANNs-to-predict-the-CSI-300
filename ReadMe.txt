@@ -1,5 +1,7 @@
 This project is done by Andy Chen Xia as a part of the dissertation.
 
+the dissertation is available in PDF format.
+
 In order to run the code, python needs to be installed with the following packages:
 	1. Tensorflow
 	2. Numpy
